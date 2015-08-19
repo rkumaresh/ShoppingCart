@@ -11,7 +11,7 @@ public class ThreeForTwoOffer extends AbstractOfferTypes {
 
 	public ThreeForTwoOffer() {
 		//Mock Offer Items for simplicity
-		offerItems.add(new Item(2, "Orange"));
+		offerItems.add(new Item(2, "Orange")); 
 	}
  
 	@Override
